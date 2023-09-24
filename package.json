@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "start": "vite preview",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "node_modules/.bin/vite preview",
+    "build": "node_modules/.bin/vite build",
+    "preview": "node_modules/.bin/vite preview"
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
