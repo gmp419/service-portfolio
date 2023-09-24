@@ -18,7 +18,7 @@ import SocialLinks from "../components/SocialLinks.vue";
       <div class="flex flex-col items-center justify-center lg:flex-row">
         <div class="rounded-full border-8 border-primary shadow-xl">
           <img
-              src="../assets/img/author-pic.JPG"
+              src="/src/assets/img/author-pic.JPG"
               class="h-48 rounded-full sm:h-56"
               alt="author"
           />
