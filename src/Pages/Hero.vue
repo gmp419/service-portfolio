@@ -6,7 +6,7 @@ import SocialLinks from "../components/SocialLinks.vue";
 <template>
   <div
       class="relative bg-cover bg-center bg-no-repeat py-8"
-      style="background-image: url(src/assets/img/bg-hero.jpg)"
+      style="background-image: url(/src/assets/img/bg-hero.jpg)"
   >
     <div
         class="absolute inset-0 z-20 bg-gradient-to-r from-hero-gradient-from to-hero-gradient-to bg-cover bg-center bg-no-repeat"
