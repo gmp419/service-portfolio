@@ -33,7 +33,7 @@ const projects = {
       >
 
         <img
-            :src="`/src/assets/img/${pic}`"
+            :src="`/img/${pic}`"
             alt="project"
             class="w-full shadow"
         />

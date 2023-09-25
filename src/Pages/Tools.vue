@@ -27,7 +27,7 @@ const tools = {
               target="_blank"
           >
             <img
-                :src="`/src/assets/img/${icon}`"
+                :src="`/img/${icon}`"
                 alt="framework logo"
                 class="mx-auto block h-12 w-auto"
             />

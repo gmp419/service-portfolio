@@ -1,21 +1,21 @@
 <script setup>
 const workExperience = [
   {
-    logoSrc: '/src/assets/img/timeless-logo.png',
+    logoSrc: '/img/timeless-logo.png',
     date: 'January 2022 - Current',
     title: 'Software Developer & Support Manager',
     description:
         'Experienced software developer with a strong focus on developing high-quality SAAS applications using frameworks such as Laravel, React, and Vue.js. Skilled in application architecture and database infrastructure design, as well as UI and UX design. Proven ability to work collaboratively with stakeholders to identify requirements and deliver projects on time and within budget.',
   },
   {
-    logoSrc: '/src/assets/img/amazon-web-services-logo.svg',
+    logoSrc: '/img/amazon-web-services-logo.svg',
     date: 'March 2022 - Mar 2025',
     title: 'AWS Certified Cloud Practitioner',
     description:
         'Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.',
   },
   {
-    logoSrc: '/src/assets/img/timeless-logo.png',
+    logoSrc: '/img/timeless-logo.png',
     date: 'May 2021 - Dec 2021',
     title: 'PHP Developer',
     description:
