@@ -22,13 +22,13 @@
         <div class="mx-auto h-24 w-24 text-center xl:h-28 xl:w-28">
           <div class="hidden group-hover:block">
             <img
-                src="../assets/img/icon-development-white.svg"
+                src="../../public/img/icon-development-white.svg"
                 alt="development icon"
             />
           </div>
           <div class="block group-hover:hidden">
             <img
-                src="../assets/img/icon-development-black.svg"
+                src="../../public/img/icon-development-black.svg"
                 alt="development icon"
             />
           </div>
@@ -48,13 +48,13 @@
         <div class="mx-auto h-24 w-24 text-center xl:h-28 xl:w-28">
           <div class="hidden group-hover:block">
             <img
-                src="../assets/img/icon-content-white.svg"
+                src="../../public/img/icon-content-white.svg"
                 alt="content marketing icon"
             />
           </div>
           <div class="block group-hover:hidden">
             <img
-                src="../assets/img/icon-content-black.svg"
+                src="../../public/img/icon-content-black.svg"
                 alt="content marketing icon"
             />
           </div>
@@ -74,13 +74,13 @@
         <div class="mx-auto h-24 w-24 text-center xl:h-28 xl:w-28">
           <div class="hidden group-hover:block">
             <img
-                src="../assets/img/icon-mobile-white.svg"
+                src="../../public/img/icon-mobile-white.svg"
                 alt="Mobile Application icon"
             />
           </div>
           <div class="block group-hover:hidden">
             <img
-                src="../assets/img/icon-mobile-black.svg"
+                src="../../public/img/icon-mobile-black.svg"
                 alt="Mobile Application icon"
             />
           </div>
@@ -100,13 +100,13 @@
         <div class="mx-auto h-24 w-24 text-center xl:h-28 xl:w-28">
           <div class="hidden group-hover:block">
             <img
-                src="../assets/img/icon-email-white.svg"
+                src="../../public/img/icon-email-white.svg"
                 alt="Email Marketing icon"
             />
           </div>
           <div class="block group-hover:hidden">
             <img
-                src="../assets/img/icon-email-black.svg"
+                src="../../public/img/icon-email-black.svg"
                 alt="Email Marketing icon"
             />
           </div>
@@ -126,13 +126,13 @@
         <div class="mx-auto h-24 w-24 text-center xl:h-28 xl:w-28">
           <div class="hidden group-hover:block">
             <img
-                src="../assets/img/icon-design-white.svg"
+                src="../../public/img/icon-design-white.svg"
                 alt="Theme Design icon"
             />
           </div>
           <div class="block group-hover:hidden">
             <img
-                src="../assets/img/icon-design-black.svg"
+                src="../../public/img/icon-design-black.svg"
                 alt="Theme Design icon"
             />
           </div>
@@ -152,13 +152,13 @@
         <div class="mx-auto h-24 w-24 text-center xl:h-28 xl:w-28">
           <div class="hidden group-hover:block">
             <img
-                src="../assets/img/icon-graphics-white.svg"
+                src="../../public/img/icon-graphics-white.svg"
                 alt="Graphic Design icon"
             />
           </div>
           <div class="block group-hover:hidden">
             <img
-                src="../assets/img/icon-graphics-black.svg"
+                src="../../public/img/icon-graphics-black.svg"
                 alt="Graphic Design icon"
             />
           </div>

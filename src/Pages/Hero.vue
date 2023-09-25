@@ -6,7 +6,7 @@ import SocialLinks from "../components/SocialLinks.vue";
 <template>
   <div
       class="relative bg-cover bg-center bg-no-repeat py-8"
-      style="background-image: url(/src/assets/img/bg-hero.jpg)"
+      style="background-image: url(/img/bg-hero.jpg)"
   >
     <div
         class="absolute inset-0 z-20 bg-gradient-to-r from-hero-gradient-from to-hero-gradient-to bg-cover bg-center bg-no-repeat"
@@ -18,7 +18,7 @@ import SocialLinks from "../components/SocialLinks.vue";
       <div class="flex flex-col items-center justify-center lg:flex-row">
         <div class="rounded-full border-8 border-primary shadow-xl">
           <img
-              src="/src/assets/img/author-pic.jpg"
+              src="/img/author-pic.jpg"
               class="h-48 rounded-full sm:h-56"
               alt="author"
           />

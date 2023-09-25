@@ -31,6 +31,7 @@ const projects = {
           class="mx-auto transform transition-all hover:scale-105 md:mx-0"
           target="_blank"
       >
+
         <img
             :src="`/src/assets/img/${pic}`"
             alt="project"

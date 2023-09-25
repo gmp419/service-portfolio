@@ -27,7 +27,7 @@ const triggerMobileNavItem = (id) => {
     <div>
       <a href="/">
         <img
-            src="../assets/img/gmp-logo.png"
+            src="../../public/img/gmp-logo.png"
             class="w-24 lg:w-48"
             alt="logo image"
         />
@@ -120,7 +120,7 @@ const triggerMobileNavItem = (id) => {
           class="absolute top-0 right-0 mt-4 mr-4"
           @click="mobileMenu = false"
       >
-        <img src="/src/assets/img/icon-close.svg" class="h-10 w-auto" alt="close logo" />
+        <img src="/img/icon-close.svg" class="h-10 w-auto" alt="close logo" />
       </button>
 
       <ul class="mt-8 flex flex-col">
