@@ -3,7 +3,7 @@ const workExperience = [
   {
     logoSrc: '/img/demo-logo.png',
     date: 'May 2021 - Current',
-    title: 'Software Developer',
+    title: 'Software Developer - Kofax',
     description:
         'Experienced software developer with a strong focus on developing high-quality applications using frameworks such as Laravel, React, and Vue.js. Skilled in application architecture and database infrastructure design, as well as UI and UX design. Proven ability to work collaboratively with stakeholders to identify requirements and deliver projects on time and within budget.',
   },
@@ -17,7 +17,7 @@ const workExperience = [
   {
     logoSrc: '/img/timeless-logo.png',
     date: 'Oct 2020 - May 2021',
-    title: 'Software Developer',
+    title: 'Software Developer - Timeless',
     description:
         'Seasoned PHP developer skilled in building feature-rich web applications, leveraging the power of PHP\'s versatility and performance. Adept at collaborating with cross-functional teams to turn project requirements into elegant, efficient, and reliable software solutions, ensuring client satisfaction and project success.',
   },
