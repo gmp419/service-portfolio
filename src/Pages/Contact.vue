@@ -11,11 +11,15 @@ const submit = async () => {
     const response = await axios.post('https://formspree.io/f/mvojwyaz', formData);
     if (response.status === 200) {
       await Swal.fire('AWESOME!', 'We\'ve got your message.', 'success');
-      console.log('Form submitted successfully');
+      formData.name = ''
+      formData.email = ''
+      formData.message = ''
     }
   } catch (error) {
     await Swal.fire('Oops!', 'Something is wrong.', 'error');
-    console.error('Error submitting the form', error);
+    formData.name = ''
+    formData.email = ''
+    formData.message = ''
   }
 };
 </script>
