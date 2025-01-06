@@ -7,7 +7,7 @@
       class="flex items-center justify-center pt-5 pl-2 sm:justify-start sm:pt-0"
   >
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/gmp419/" class="" target="_blank">
+    <a href="https://www.linkedin.com/in/GPATEL419/" class="" target="_blank">
       <i
           class="bx bxl-linkedin text-2xl text-white hover:text-yellow"
       ></i>
