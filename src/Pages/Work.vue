@@ -14,13 +14,6 @@ const workExperience = [
     description:
         'Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.',
   },
-  {
-    logoSrc: '/img/demo-logo.png',
-    date: 'Oct 2020 - May 2021',
-    title: 'Software Developer - Kofax',
-    description:
-    'Seasoned PHP developer skilled in building feature-rich web applications, leveraging the power of PHP\'s versatility and performance. Adept at collaborating with cross-functional teams to turn project requirements into elegant, efficient, and reliable software solutions, ensuring client satisfaction and project success.',
-  },
 ];
 </script>
 
